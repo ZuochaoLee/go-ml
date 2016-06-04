@@ -1,2 +1,2 @@
-# Crawl-Agent-go
-Crawl-Agent-go
+# go-ml
+用go语言实现常用的机器学习算法，充分利用go语言的优势与特色
